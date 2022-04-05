@@ -1,1 +1,1 @@
-This file contain code of version 1.
+This file contain code of version 2.
